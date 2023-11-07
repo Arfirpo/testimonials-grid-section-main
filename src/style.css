@@ -108,10 +108,12 @@ aside {
     grid-row: 1 / 3;
   }
   @media (min-width: 64rem) {
+    background-position: right 85px top 0;
     grid-column: 1 / 4;
     grid-row: 1 / 2;
   }
   @media (min-width: 75rem) {
+    
     grid-column: 1 / 3;
     grid-row: 1 / 2;
   }
